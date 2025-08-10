@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "SoyaX",
+    "Name": "Doze Anywhere",
+    "Description": "/dozeanywhere [nosnap]\n/sitanywhere",
+    "Punchline": "Anywhere is a bed, if you want it to be.",
+    "InternalName": "DozeAnywhere",
+    "AssemblyVersion": "0.2.2.6",
+    "RepoUrl": "https://github.com/kirin-xiv/DozeAnywhere",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Fun",
+      "Emotes",
+      "Sitting",
+      "Utility"
+    ],
+    "DalamudApiLevel": 13,
+    "IconUrl": "",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1744329600,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/kirin-xiv/DozeAnywhere/releases/download/v0.2.2.6/DozeAnywhere.zip",
+    "DownloadLinkTesting": "https://github.com/kirin-xiv/DozeAnywhere/releases/download/v0.2.2.6/DozeAnywhere.zip",
+    "DownloadLinkUpdate": "https://github.com/kirin-xiv/DozeAnywhere/releases/download/v0.2.2.6/DozeAnywhere.zip"
+  }
+]

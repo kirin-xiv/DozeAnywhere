@@ -4,5 +4,11 @@
   "Punchline": "Anywhere is a bed, if you want it to be.",
   "Description": "/dozeanywhere [nosnap]\n/sitanywhere",
   "InternalName": "DozeAnywhere",
-  "ApplicableVersion": "any"
+  "AssemblyVersion": "0.2.2.6",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0
 }
